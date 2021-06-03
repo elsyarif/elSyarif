@@ -1,7 +1,7 @@
 - 👋 Hi, I’m syarif
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning beckend nodejs
-- 💞️ I’m looking to collaborate on jobs
+- 👀 I’m interested in software development, beckend development,
+- 🌱 I’m currently learning nodejs, react, fullstack javascript 
+- 💞️ I’m looking to collaborate on jobs, freelance
 - 📫 How to reach me on email
 
 <!---
