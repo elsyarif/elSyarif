@@ -1,9 +1,9 @@
 
 ### Hi there, I’m syarif 👋
 
-- 👀 I’m interested in software development, beckend development
-- 🌱 I’m currently learning nodejs, react, fullstack javascript 
-- 💞️ I’m looking to collaborate on jobs, freelance
+- 👀 I’m interested in software development, especially beck-end development
+- 📚 I'm learning deep back-end development with Go-lang and Node.js. 
+- 💞️ I’m looking to collaborate on jobs, freelance and part time.
 
 ##
  <img src="https://komarev.com/ghpvc/?username=elSyarif" alt="elSyarif"/> [![Linkedin Badge](https://img.shields.io/badge/%20-Syarif%20Hidayatulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syarif-hidayatulloh-427718a8)](https://www.linkedin.com/in/syarif-hidayatulloh-427718a8) [![Gmail Badge](https://img.shields.io/badge/%20-id.syarif@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:id.syarif@gmail.com)](mailto:id.syarif@gmail.com)
